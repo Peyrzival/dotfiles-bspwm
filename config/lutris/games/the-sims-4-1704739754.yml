@@ -1,0 +1,8 @@
+game:
+  exe: /mnt/HD/Games/The Sims 4/Game/Bin/TS4_x64.exe
+  prefix: /mnt/HD/Games/Prefixes/The Sims 4
+system:
+  locale: ''
+wine:
+  battleye: false
+  eac: false

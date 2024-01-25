@@ -14,6 +14,6 @@
 * scrot 
 
 ### Important
-* Fonts needed: JetBrainsMono Nerd Font (polybar) and SpaceMono Nerd Font (alacritty).
+* Fonts needed: all included in local/share/fonts/
 * Changes some values in polybar like wlan for your specific wifi adapter, battery module, etc.
 
